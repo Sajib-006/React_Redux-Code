@@ -4,9 +4,9 @@ import DemoComponent from "./demoComponent";
 class App extends Component {
   state = {
     students: [
-      { name: "Rafid", age: "24", roll: "61", id: 1 },
+      { name: "Rafid", age: "20", roll: "61", id: 1 },
       { name: "Apurbo", age: "25", roll: "62", id: 2 },
-      { name: "Monmoy", age: "24", roll: "63", id: 3 },
+      { name: "Monmoy", age: "30", roll: "63", id: 3 },
     ],
   };
   render() {
